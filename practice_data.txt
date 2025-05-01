@@ -1,0 +1,7 @@
+Hello, this is your first practice file!
+You can read this file using Python.
+Try writing to it too — or appending a new line!
+
+Appending a new line
+ Hey This is gokul
+h
