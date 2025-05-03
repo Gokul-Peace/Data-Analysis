@@ -27,17 +27,18 @@ scores = [85, 92, 78, 90,100]
 
 
 # Sample data
-x = [1, 2, 3, 4, 5]
-y = [10, 12, 8, 14, 7]
+# x = [1, 2, 3, 4, 5]
+# y = [10, 12, 8, 14, 7]
 
-# Create a line plot
-plt.plot(x, y, marker='o', linestyle='-', color='blue', label='Values')
+# # Create a line plot
+# plt.plot(x, y, marker='o', linestyle='-', color='blue', label='Values')
 
-# Add title and labels
-plt.title('Basic Line Plot')
-plt.xlabel('X-axis')
-plt.ylabel('Y-axis')
-plt.legend()
+# # Add title and labels
+# plt.title('Basic Line Plot')
+# plt.xlabel('X-axis')
+# plt.ylabel('Y-axis')
+# plt.legend()
 
-# Show the plot
-plt.show()
+# # Show the plot
+# plt.show()
+
